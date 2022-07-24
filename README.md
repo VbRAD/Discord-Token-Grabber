@@ -39,26 +39,7 @@ No local caching
 Transfers via Discord webhook
 Searches for authorization tokens in multiple directories (Discord, Discord PTB, Discord Canary, Google chrome, Opera, Brave and Yandex)
 No external Python modules required
-[todo] Cross-platform support
 
-How to use
-Create a webhook on your Discord server. I recommend creating a new server.
-Change the 'WEBHOOK_URL' variable value to your Discord webhook URL in token-grabber.py
-(obfuscate the code or install it as a backdoor in an other script.)
-Send the script to your victim and make them run it.
-Features
-Steal Discord info
-Username
-E-mail
-Phone Number
-Nitro Type
-ID
-Steal Discord token
-Discord
-Discord PTB
-Discord Dev
-Steal Discord Password : When you change password & When you change e-mail & When you log-in in your discord account
-Discord
-Discord PTB
-Discord Dev
-How to use
+How To Use ? 
+Open setup and then add yoru webhook to the field, click next and add your BTC addy and LTC and then customize it according to your needs and click compile
+a folder will open containing your grabber file
